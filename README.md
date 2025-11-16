@@ -1,4 +1,4 @@
-![Silicon Flag Logo](logo.png)
+<img src="./logo.png" alt="Silicon Flag Logo" width="50">
 
 # SiliconFlag
 
