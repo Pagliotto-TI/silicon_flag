@@ -8,4 +8,5 @@ gemspec
 gem "irb"
 gem "rake", "~> 13.0"
 gem 'minitest', '~> 5.26', '>= 5.26.1'
-gem "rubocop", "~> 1.21"
+gem "rubocop", "~> 1.81", ">= 1.81.7"
+
