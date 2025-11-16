@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require_relative "silicon_flag/version"
 
 module SiliconFlag
