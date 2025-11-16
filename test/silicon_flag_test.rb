@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require "test_helper"
 
 class SiliconFlagTest < Minitest::Test
@@ -5,4 +7,3 @@ class SiliconFlagTest < Minitest::Test
     refute_nil ::SiliconFlag::VERSION
   end
 end
-

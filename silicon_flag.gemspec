@@ -37,7 +37,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "minitest", "~> 5.26", ">= 5.26.1"
   spec.add_development_dependency "rake", "~> 13.0"
   spec.add_development_dependency "rubocop", "~> 1.81", ">= 1.81.7"
-  
+
   # For more information and examples about making a new gem, check out our
   # guide at: https://bundler.io/guides/creating_gem.html
 end
